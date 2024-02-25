@@ -19,4 +19,5 @@ Compile the Java files and run the main class. You can extend the functionality 
 
 ## Installation
 Clone the repository to your local machine using the following command:
+
 git clone https://github.com/hamzabgh/PayrollManagement-CommissionSystem.git
