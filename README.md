@@ -12,6 +12,11 @@ This project implements a class hierarchy for different types of employees withi
   - `HourlyEmployee`
   - `SalariedEmployee`
 
-## Installation
 
+## Usage
+
+Compile the Java files and run the main class. You can extend the functionality by adding your own classes or modifying the existing hierarchy as needed.
+
+## Installation
 Clone the repository to your local machine using the following command:
+git clone https://github.com/hamzabgh/PayrollManagement-CommissionSystem.git
